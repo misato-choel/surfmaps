@@ -1,2 +1,2 @@
-# surfmaps1
+# surfmaps
 滑翔地图总览
